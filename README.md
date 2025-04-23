@@ -43,7 +43,9 @@ cd dataset-quality-checker
 3. Run the App
 ```bash
 python main.py
+```
 If using Streamlit for UI:
+```
 streamlit run main.py
 ```
 🧪 Example Output
